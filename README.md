@@ -22,11 +22,11 @@ This project presents the **design** (not development) of **Limko Wi Skul**, a s
 
 ## Group Members
 
-| Name                 | Student ID  |
+|       Name           | Student ID  |
 |----------------------|-------------|
-| [Sharon Mary Koroma] | [905006201] |
-| [Member 2 Name]      | [905005987] |
-| [Member 3 Name]      | [ID]        |
+| Sharon Mary Koroma   | [905006201] |
+| Abdul Aziz Sesay     | [905005987] |
+| Gibril bangura       | [905005708] |
 
 
 ## Repository Contents
