@@ -25,7 +25,7 @@ This project presents the **design** (not development) of **Limko Wi Skul**, a s
 | Name                 | Student ID  |
 |----------------------|-------------|
 | [Sharon Mary Koroma] | [905006201] |
-| [Member 2 Name]      | [ID]        |
+| [Member 2 Name]      | [905005987] |
 | [Member 3 Name]      | [ID]        |
 
 
